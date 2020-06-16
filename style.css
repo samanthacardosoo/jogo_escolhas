@@ -6,6 +6,8 @@ header {
     background: #740909;
 }
 
+
+
 h1 {
     text-align: center;
     font-weight: bold;
@@ -16,13 +18,28 @@ h1 {
 }
 
 .intro {
-    padding: 20px
+    display: flex;
+    padding: 20px;
 }
 
+#samurai {
+    width: 20%;
+}
+
+#dragao {
+    width: 20%;
+}
+
+.paragrafos {
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+}
 #sinopse {
     text-align: center;
     padding: 5px;
     font-style: italic;
+    
 }
 
 #começar {
@@ -30,10 +47,13 @@ h1 {
     font-weight: bold;
     font-size: 20px;
     padding: 30px;
+    
 }
 
 .texto {
     text-align: center;
+    padding: 30px;
+
 }
 
 .button {

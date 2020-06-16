@@ -122,3 +122,7 @@ function valeu() {
     btn1.style.display= "none";
     btn2.style.display= "none";
 }
+
+
+
+// https://samanthacardosoo.github.io/jogo_escolhas/jogo.html
