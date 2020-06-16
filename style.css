@@ -1,0 +1,52 @@
+html {
+    background: #b64242;
+}
+
+header {
+    background: #740909;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+    color: #e0d0d09f;
+    padding: 20px;
+    margin: auto;  
+}
+
+.intro {
+    padding: 20px
+}
+
+#sinopse {
+    text-align: center;
+    padding: 5px;
+    font-style: italic;
+}
+
+#começar {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 30px;
+}
+
+.texto {
+    text-align: center;
+}
+
+.button {
+    text-align: center;
+    padding: 10px;
+}
+
+#btn1 {
+    margin:5px;
+    padding: 8px;
+}
+
+#btn2 {
+    margin:5px;
+    padding: 8px;
+}
